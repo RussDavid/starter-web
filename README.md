@@ -1,7 +1,9 @@
-# Starter Web Repo
+# Git Practice 
 
-This repository is for showing how Git and GitHub work
+## Section 1
 
-## Purpose
+## New Section
 
-Sample website with plenty of files for demos
+## Section 2
+
+## Section 3 
