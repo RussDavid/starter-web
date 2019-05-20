@@ -15,3 +15,7 @@ The purpose is to learn Git
 Deploy on any server
 
 ## How To
+
+### Copyright
+
+Copyright notice here
