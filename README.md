@@ -8,6 +8,10 @@ This is example is to show different parts of Git.
 
 ## Purpose
 
+The purpose is to learn Git
+
 ## Deployment
+
+Deploy on any server
 
 ## How To
